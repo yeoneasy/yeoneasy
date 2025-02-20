@@ -31,9 +31,9 @@
 </td>
 <td valign="top" width="50%">
 
-### 🎨 Most Used Languages
+### 🚀 About Me
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoneasy&layout=compact&theme=radical" alt="Top Languages">
+🚀 **Groomthon Training Full-Stack Developer** (2023.11~)
 
 </td>
 </tr>
@@ -43,6 +43,13 @@
 
 <table>
 <tr>
+<td valign="top" width="50%">
+
+### 🎨 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoneasy&layout=compact&theme=radical" alt="Top Languages">
+
+</td>
 <td valign="top" width="50%">
 
 ### 📚 Once I've Used ✏️
