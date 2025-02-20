@@ -41,6 +41,10 @@
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 📚 Once I've Used ✏️
 
 <p>
@@ -54,5 +58,9 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
