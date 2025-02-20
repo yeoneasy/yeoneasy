@@ -20,11 +20,24 @@
 
 ---
 
+<table align="center">
+<tr>
+<td>
+
 ### 📊 yeoneasy's GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeoneasy&show_icons=true&theme=default" alt="GitHub Stats">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=yeoneasy&show_icons=true&theme=default" alt="GitHub Stats">
+
+</td>
+<td>
+
+### 🎨 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoneasy&layout=compact&theme=default" alt="Top Languages">
+
+</td>
+</tr>
+</table>
 
 <ul>
   <li>🌟 Total Stars Earned: <b>0</b></li>
@@ -33,14 +46,6 @@
   <li>❗ Total Issues: <b>0</b></li>
   <li>🏆 Contributed to (last year): <b>0</b></li>
 </ul>
-
----
-
-### 🎨 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoneasy&layout=compact&theme=default" alt="Top Languages">
-</p>
 
 <ul>
   <li>C++ <b>32.47%</b></li>
