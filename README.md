@@ -9,7 +9,7 @@
 <a href="https://github.com/yeoneasy">
   <img src="https://img.shields.io/badge/GitHub-152%20%2F%20918-blue" alt="GitHub">
 </a>
-<a href="https://solved.ac/yeoneasy">
+<a href="https://solved.ac/minamihina">
   <img src="https://img.shields.io/badge/solved.ac-blue?logo=solved.ac" alt="Solved.ac">
 </a>
 <a href="https://your-tistory-link">
