@@ -1,5 +1,9 @@
 <div align="center">
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ## 🐣 yeoneasy's GITHUB 🐣
 
 <a href="https://github.com/yeoneasy">
@@ -12,28 +16,14 @@
   <img src="https://img.shields.io/badge/TISTORY%20BLOG-black" alt="TISTORY BLOG">
 </a>
 
----
-
 🚀 **Groomthon Training Full-Stack Developer** (2023.11~)
 
-</div>
-
----
-
-<table>
-<tr>
+</td>
 <td valign="top" width="50%">
 
 ### 📊 yeoneasy's GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=yeoneasy&show_icons=true&theme=radical" alt="GitHub Stats">
-
-</td>
-<td valign="top" width="50%">
-
-### 🚀 About Me
-
-🚀 **Groomthon Training Full-Stack Developer** (2023.11~)
 
 </td>
 </tr>
