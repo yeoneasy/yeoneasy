@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/TISTORY%20BLOG-black" alt="TISTORY BLOG">
 </a>
 
-🚀 **Groomthon Training Full-Stack Developer** (2023.11~)
+🚀 **Bloom** (2025.3~)
 
 </td>
 <td valign="top" width="50%">
